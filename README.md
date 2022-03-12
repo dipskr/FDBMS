@@ -1,3 +1,4 @@
+
 # FDBMS-Project-Banking-System-Management
 > Software Required: MySQL Workbench, terminal
 >The main agenda of our project is to develop Bank Management Mini DBMS project is to keep a record of customer transactions in the bank.
@@ -28,7 +29,7 @@
 >d. Agriculture loans
 >e. Education loans
 >f. Gold loans
-> ![image](https://user-images.githubusercontent.com/"C:\Users\kdipu\Downloads\BSM_ERD.1.png")
+> ![BSM_ERD 1](https://user-images.githubusercontent.com/97459948/158012425-c48c9f0c-114c-4230-acca-0e9e380ebe53.png)
 
 
 # FDBMS-Project-College-Admission-Form'
