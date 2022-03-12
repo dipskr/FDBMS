@@ -28,7 +28,7 @@
 >d. Agriculture loans
 >e. Education loans
 >f. Gold loans
-> ![image](https://user-images.githubusercontent.com/93217093/157680103-f18fd4da-e50f-4675-89de-218cf706c684.png)
+> ![image](https://user-images.githubusercontent.com/"C:\Users\kdipu\Downloads\BSM_ERD.1.png")
 
 
 # FDBMS-Project-College-Admission-Form'
