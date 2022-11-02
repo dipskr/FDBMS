@@ -33,7 +33,7 @@
 
 
 # FDBMS-Project-College-Admission-Form'
-> Software Used: MySQL Workbench, terminal,Excel 
+> Software Used: MySQL Workbench 
 > In this project, we have selected College admission form for Bottom-up approach to database designing. 
 > Our project provides a basic information about the college admission process and what are the entities required to execute admission process. 
 > We have collected raw data for the admission form.
